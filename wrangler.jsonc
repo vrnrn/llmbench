@@ -1,5 +1,6 @@
 {
   "name": "vrnrn-bench",
+  "main": "src/worker.js",
   "compatibility_date": "2026-10-26",
-  "assets": { "directory": "./public" }
+  "routes": [{ "pattern": "bench.vrnrn.com", "custom_domain": true }]
 }

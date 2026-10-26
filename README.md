@@ -25,4 +25,4 @@ Review the public data, commit the updated snapshot and built page, and deploy t
 
 ## Deploy
 
-The site is configured as Cloudflare Workers static assets in `wrangler.jsonc`. Once an authorized Cloudflare account is available, deploy with `npx wrangler deploy` and configure the custom domain `bench.vrnrn.com` on the Worker. The repository contains no deployment credentials.
+The generated Worker serves the same self-contained HTML and is configured in `wrangler.jsonc`. Once an authorized Cloudflare account is available, deploy with `npx wrangler deploy`; the configuration includes the custom domain `bench.vrnrn.com`. The repository contains no deployment credentials.
