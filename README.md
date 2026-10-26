@@ -1,4 +1,4 @@
-# Codex benchmark dashboard
+# LLMBench
 
 A static public dashboard of native Codex model benchmarks. The page presents measured response tokens per second by model, reasoning effort, and Standard or Fast mode. It uses the arithmetic mean of up to three comparable completed runs and shows the sample count. Individual sanitized measurements remain available in the details.
 

@@ -1,7 +1,7 @@
 {
   "catalogTime": "2026-10-26T19:55:48.633837+00:00",
   "comboCount": 58,
-  "generated": "2026-10-26T20:02:49.085285+00:00",
+  "generated": "2026-10-26T20:10:02.637987+00:00",
   "models": [
     {
       "efforts": [
@@ -95,6 +95,21 @@
       "total": 3228.64
     },
     {
+      "effort": "high",
+      "model": "gpt-6-astra",
+      "passed": true,
+      "rep": 2,
+      "response": 55.15,
+      "seconds": 11.858,
+      "source": "Benchmark run",
+      "speed": "fast",
+      "status": "completed",
+      "task": "reconcile",
+      "taskVersion": "6e24f49fe0",
+      "time": "2026-10-26T20:05:07.089847+00:00",
+      "total": 4104.57
+    },
+    {
       "effort": "low",
       "model": "gpt-6-astra",
       "passed": true,
@@ -108,6 +123,21 @@
       "taskVersion": "6e24f49fe0",
       "time": "2026-10-26T19:57:29.044920+00:00",
       "total": 4425.9
+    },
+    {
+      "effort": "low",
+      "model": "gpt-6-astra",
+      "passed": true,
+      "rep": 2,
+      "response": 51.12,
+      "seconds": 11.306,
+      "source": "Benchmark run",
+      "speed": "fast",
+      "status": "completed",
+      "task": "reconcile",
+      "taskVersion": "6e24f49fe0",
+      "time": "2026-10-26T20:04:34.050784+00:00",
+      "total": 4258.88
     },
     {
       "effort": "max",
@@ -125,6 +155,21 @@
       "total": 3779.08
     },
     {
+      "effort": "max",
+      "model": "gpt-6-astra",
+      "passed": true,
+      "rep": 2,
+      "response": 37.71,
+      "seconds": 22.967,
+      "source": "Benchmark run",
+      "speed": "fast",
+      "status": "completed",
+      "task": "reconcile",
+      "taskVersion": "6e24f49fe0",
+      "time": "2026-10-26T20:06:00.145722+00:00",
+      "total": 3576.87
+    },
+    {
       "effort": "medium",
       "model": "gpt-6-astra",
       "passed": true,
@@ -138,6 +183,21 @@
       "taskVersion": "6e24f49fe0",
       "time": "2026-10-26T19:57:44.707743+00:00",
       "total": 4903.31
+    },
+    {
+      "effort": "medium",
+      "model": "gpt-6-astra",
+      "passed": true,
+      "rep": 2,
+      "response": 44.35,
+      "seconds": 14.295,
+      "source": "Benchmark run",
+      "speed": "fast",
+      "status": "completed",
+      "task": "reconcile",
+      "taskVersion": "6e24f49fe0",
+      "time": "2026-10-26T20:04:51.936148+00:00",
+      "total": 4452.8
     },
     {
       "effort": "xhigh",
@@ -155,6 +215,21 @@
       "total": 5190.95
     },
     {
+      "effort": "xhigh",
+      "model": "gpt-6-astra",
+      "passed": true,
+      "rep": 2,
+      "response": 32.66,
+      "seconds": 24.16,
+      "source": "Benchmark run",
+      "speed": "fast",
+      "status": "completed",
+      "task": "reconcile",
+      "taskVersion": "6e24f49fe0",
+      "time": "2026-10-26T20:05:34.190389+00:00",
+      "total": 2051.59
+    },
+    {
       "effort": "high",
       "model": "gpt-6-luna",
       "passed": true,
@@ -168,6 +243,21 @@
       "taskVersion": "6e24f49fe0",
       "time": "2026-10-26T20:02:00.955248+00:00",
       "total": 4563.39
+    },
+    {
+      "effort": "high",
+      "model": "gpt-6-luna",
+      "passed": true,
+      "rep": 2,
+      "response": 47.16,
+      "seconds": 13.061,
+      "source": "Benchmark run",
+      "speed": "fast",
+      "status": "completed",
+      "task": "reconcile",
+      "taskVersion": "6e24f49fe0",
+      "time": "2026-10-26T20:09:17.404347+00:00",
+      "total": 4796.11
     },
     {
       "effort": "low",
@@ -185,6 +275,21 @@
       "total": 4513.38
     },
     {
+      "effort": "low",
+      "model": "gpt-6-luna",
+      "passed": true,
+      "rep": 2,
+      "response": 60.85,
+      "seconds": 10.058,
+      "source": "Benchmark run",
+      "speed": "fast",
+      "status": "completed",
+      "task": "reconcile",
+      "taskVersion": "6e24f49fe0",
+      "time": "2026-10-26T20:08:47.343563+00:00",
+      "total": 6204.8
+    },
+    {
       "effort": "max",
       "model": "gpt-6-luna",
       "passed": true,
@@ -198,6 +303,21 @@
       "taskVersion": "6e24f49fe0",
       "time": "2026-10-26T20:02:41.257471+00:00",
       "total": 4878.44
+    },
+    {
+      "effort": "max",
+      "model": "gpt-6-luna",
+      "passed": true,
+      "rep": 2,
+      "response": 43.43,
+      "seconds": 14.114,
+      "source": "Benchmark run",
+      "speed": "fast",
+      "status": "completed",
+      "task": "reconcile",
+      "taskVersion": "6e24f49fe0",
+      "time": "2026-10-26T20:09:56.362845+00:00",
+      "total": 4622.9
     },
     {
       "effort": "medium",
@@ -215,6 +335,21 @@
       "total": 5706.74
     },
     {
+      "effort": "medium",
+      "model": "gpt-6-luna",
+      "passed": true,
+      "rep": 2,
+      "response": 60.9,
+      "seconds": 11.642,
+      "source": "Benchmark run",
+      "speed": "fast",
+      "status": "completed",
+      "task": "reconcile",
+      "taskVersion": "6e24f49fe0",
+      "time": "2026-10-26T20:09:01.677359+00:00",
+      "total": 5395.52
+    },
+    {
       "effort": "xhigh",
       "model": "gpt-6-luna",
       "passed": true,
@@ -228,6 +363,21 @@
       "taskVersion": "6e24f49fe0",
       "time": "2026-10-26T20:02:22.241579+00:00",
       "total": 3396.23
+    },
+    {
+      "effort": "xhigh",
+      "model": "gpt-6-luna",
+      "passed": true,
+      "rep": 2,
+      "response": 38.28,
+      "seconds": 19.461,
+      "source": "Benchmark run",
+      "speed": "fast",
+      "status": "completed",
+      "task": "reconcile",
+      "taskVersion": "6e24f49fe0",
+      "time": "2026-10-26T20:09:39.597709+00:00",
+      "total": 3264.21
     },
     {
       "effort": "high",
@@ -245,6 +395,21 @@
       "total": 5604.59
     },
     {
+      "effort": "high",
+      "model": "gpt-6-sol",
+      "passed": true,
+      "rep": 2,
+      "response": 47.64,
+      "seconds": 20.36,
+      "source": "Benchmark run",
+      "speed": "fast",
+      "status": "completed",
+      "task": "reconcile",
+      "taskVersion": "6e24f49fe0",
+      "time": "2026-10-26T20:07:59.213846+00:00",
+      "total": 4805.94
+    },
+    {
       "effort": "low",
       "model": "gpt-6-sol",
       "passed": true,
@@ -258,6 +423,21 @@
       "taskVersion": "6e24f49fe0",
       "time": "2026-10-26T19:59:59.557991+00:00",
       "total": 5541.05
+    },
+    {
+      "effort": "low",
+      "model": "gpt-6-sol",
+      "passed": true,
+      "rep": 2,
+      "response": 68.01,
+      "seconds": 10.409,
+      "source": "Benchmark run",
+      "speed": "fast",
+      "status": "completed",
+      "task": "reconcile",
+      "taskVersion": "6e24f49fe0",
+      "time": "2026-10-26T20:07:17.843359+00:00",
+      "total": 6162.75
     },
     {
       "effort": "max",
@@ -275,6 +455,21 @@
       "total": 5529.73
     },
     {
+      "effort": "max",
+      "model": "gpt-6-sol",
+      "passed": true,
+      "rep": 2,
+      "response": 67.6,
+      "seconds": 18.225,
+      "source": "Benchmark run",
+      "speed": "fast",
+      "status": "completed",
+      "task": "reconcile",
+      "taskVersion": "6e24f49fe0",
+      "time": "2026-10-26T20:08:34.297909+00:00",
+      "total": 4558.89
+    },
+    {
       "effort": "medium",
       "model": "gpt-6-sol",
       "passed": true,
@@ -288,6 +483,21 @@
       "taskVersion": "6e24f49fe0",
       "time": "2026-10-26T20:00:16.412353+00:00",
       "total": 6295.58
+    },
+    {
+      "effort": "medium",
+      "model": "gpt-6-sol",
+      "passed": true,
+      "rep": 2,
+      "response": 69.09,
+      "seconds": 14.576,
+      "source": "Benchmark run",
+      "speed": "fast",
+      "status": "completed",
+      "task": "reconcile",
+      "taskVersion": "6e24f49fe0",
+      "time": "2026-10-26T20:07:35.756826+00:00",
+      "total": 4505.05
     },
     {
       "effort": "xhigh",
@@ -305,6 +515,21 @@
       "total": 6271.87
     },
     {
+      "effort": "xhigh",
+      "model": "gpt-6-sol",
+      "passed": true,
+      "rep": 2,
+      "response": 89.99,
+      "seconds": 11.257,
+      "source": "Benchmark run",
+      "speed": "fast",
+      "status": "completed",
+      "task": "reconcile",
+      "taskVersion": "6e24f49fe0",
+      "time": "2026-10-26T20:08:13.297344+00:00",
+      "total": 5826.0
+    },
+    {
       "effort": "high",
       "model": "gpt-6.1-sol",
       "passed": true,
@@ -318,6 +543,21 @@
       "taskVersion": "6e24f49fe0",
       "time": "2026-10-26T19:56:31.168136+00:00",
       "total": 5190.68
+    },
+    {
+      "effort": "high",
+      "model": "gpt-6.1-sol",
+      "passed": true,
+      "rep": 2,
+      "response": 61.19,
+      "seconds": 11.244,
+      "source": "Benchmark run",
+      "speed": "fast",
+      "status": "completed",
+      "task": "reconcile",
+      "taskVersion": "6e24f49fe0",
+      "time": "2026-10-26T20:03:23.339044+00:00",
+      "total": 5742.5
     },
     {
       "effort": "low",
@@ -335,6 +575,21 @@
       "total": 4765.23
     },
     {
+      "effort": "low",
+      "model": "gpt-6.1-sol",
+      "passed": true,
+      "rep": 2,
+      "response": 55.72,
+      "seconds": 9.674,
+      "source": "Benchmark run",
+      "speed": "fast",
+      "status": "completed",
+      "task": "reconcile",
+      "taskVersion": "6e24f49fe0",
+      "time": "2026-10-26T20:02:53.877080+00:00",
+      "total": 4980.45
+    },
+    {
       "effort": "max",
       "model": "gpt-6.1-sol",
       "passed": true,
@@ -348,6 +603,21 @@
       "taskVersion": "6e24f49fe0",
       "time": "2026-10-26T19:57:11.916212+00:00",
       "total": 3314.34
+    },
+    {
+      "effort": "max",
+      "model": "gpt-6.1-sol",
+      "passed": true,
+      "rep": 2,
+      "response": 40.53,
+      "seconds": 29.852,
+      "source": "Benchmark run",
+      "speed": "fast",
+      "status": "completed",
+      "task": "reconcile",
+      "taskVersion": "6e24f49fe0",
+      "time": "2026-10-26T20:04:19.720725+00:00",
+      "total": 3789.35
     },
     {
       "effort": "medium",
@@ -365,6 +635,21 @@
       "total": 5453.47
     },
     {
+      "effort": "medium",
+      "model": "gpt-6.1-sol",
+      "passed": true,
+      "rep": 2,
+      "response": 56.23,
+      "seconds": 12.503,
+      "source": "Benchmark run",
+      "speed": "fast",
+      "status": "completed",
+      "task": "reconcile",
+      "taskVersion": "6e24f49fe0",
+      "time": "2026-10-26T20:03:09.214295+00:00",
+      "total": 5137.23
+    },
+    {
       "effort": "xhigh",
       "model": "gpt-6.1-sol",
       "passed": true,
@@ -378,6 +663,21 @@
       "taskVersion": "6e24f49fe0",
       "time": "2026-10-26T19:56:49.344782+00:00",
       "total": 4286.85
+    },
+    {
+      "effort": "xhigh",
+      "model": "gpt-6.1-sol",
+      "passed": true,
+      "rep": 2,
+      "response": 51.05,
+      "seconds": 20.862,
+      "source": "Benchmark run",
+      "speed": "fast",
+      "status": "completed",
+      "task": "reconcile",
+      "taskVersion": "6e24f49fe0",
+      "time": "2026-10-26T20:03:47.067778+00:00",
+      "total": 5373.51
     },
     {
       "effort": "high",
@@ -395,6 +695,21 @@
       "total": 7838.12
     },
     {
+      "effort": "high",
+      "model": "gpt-6.1-terra",
+      "passed": true,
+      "rep": 2,
+      "response": 73.56,
+      "seconds": 10.032,
+      "source": "Benchmark run",
+      "speed": "fast",
+      "status": "completed",
+      "task": "reconcile",
+      "taskVersion": "6e24f49fe0",
+      "time": "2026-10-26T20:06:38.284398+00:00",
+      "total": 6513.79
+    },
+    {
       "effort": "low",
       "model": "gpt-6.1-terra",
       "passed": true,
@@ -408,6 +723,21 @@
       "taskVersion": "6e24f49fe0",
       "time": "2026-10-26T19:58:55.729473+00:00",
       "total": 6589.35
+    },
+    {
+      "effort": "low",
+      "model": "gpt-6.1-terra",
+      "passed": true,
+      "rep": 2,
+      "response": 60.13,
+      "seconds": 9.13,
+      "source": "Benchmark run",
+      "speed": "fast",
+      "status": "completed",
+      "task": "reconcile",
+      "taskVersion": "6e24f49fe0",
+      "time": "2026-10-26T20:06:12.421313+00:00",
+      "total": 5290.08
     },
     {
       "effort": "max",
@@ -425,6 +755,21 @@
       "total": 4090.76
     },
     {
+      "effort": "max",
+      "model": "gpt-6.1-terra",
+      "passed": true,
+      "rep": 2,
+      "response": 77.75,
+      "seconds": 11.601,
+      "source": "Benchmark run",
+      "speed": "fast",
+      "status": "completed",
+      "task": "reconcile",
+      "taskVersion": "6e24f49fe0",
+      "time": "2026-10-26T20:07:04.380032+00:00",
+      "total": 4430.42
+    },
+    {
       "effort": "medium",
       "model": "gpt-6.1-terra",
       "passed": true,
@@ -440,6 +785,21 @@
       "total": 7914.06
     },
     {
+      "effort": "medium",
+      "model": "gpt-6.1-terra",
+      "passed": true,
+      "rep": 2,
+      "response": 81.6,
+      "seconds": 9.241,
+      "source": "Benchmark run",
+      "speed": "fast",
+      "status": "completed",
+      "task": "reconcile",
+      "taskVersion": "6e24f49fe0",
+      "time": "2026-10-26T20:06:25.252724+00:00",
+      "total": 7073.73
+    },
+    {
       "effort": "xhigh",
       "model": "gpt-6.1-terra",
       "passed": true,
@@ -453,6 +813,21 @@
       "taskVersion": "6e24f49fe0",
       "time": "2026-10-26T19:59:25.499947+00:00",
       "total": 6712.98
+    },
+    {
+      "effort": "xhigh",
+      "model": "gpt-6.1-terra",
+      "passed": true,
+      "rep": 2,
+      "response": 87.88,
+      "seconds": 8.773,
+      "source": "Benchmark run",
+      "speed": "fast",
+      "status": "completed",
+      "task": "reconcile",
+      "taskVersion": "6e24f49fe0",
+      "time": "2026-10-26T20:06:49.898700+00:00",
+      "total": 7474.79
     },
     {
       "effort": "high",
