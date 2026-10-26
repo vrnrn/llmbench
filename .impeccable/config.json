@@ -11,15 +11,6 @@
         ],
         "createdAt": "2026-10-26T20:15:50.299Z",
         "reason": "Agent: detector assumes white for dark-mode text on a transparent surface; verified light and dark rendering and user confirmed transparency."
-      },
-      {
-        "rule": "cramped-padding",
-        "value": "*",
-        "files": [
-          "src/template.html"
-        ],
-        "createdAt": "2026-10-26T20:15:52.680Z",
-        "reason": "Agent: table top border is a separator and header text is inset by 16px; checked source."
       }
     ]
   }
